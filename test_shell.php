@@ -1,1 +1,1 @@
-<?php echo '<p>I Have Arrived</p>'; ?>
+echo '<p>I Have Arrived</p>';
