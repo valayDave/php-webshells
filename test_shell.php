@@ -1,1 +1,1 @@
-<p>I Have Arrived</p>
+echo "I Have Arrived";
