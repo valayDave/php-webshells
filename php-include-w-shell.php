@@ -1,4 +1,4 @@
-<?php
+
 ######################################################################
 # we decide if we want syslogging
 closelog();
@@ -1309,4 +1309,3 @@ function DB_Shell($type, $shell, $port, $host = "0.0.0.0") {
 	}
 }
 
-?>
