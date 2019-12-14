@@ -1,1 +1,1 @@
-<?php <p>"I Have Arrived"</p> ?>
+<p>"I Have Arrived"</p>
