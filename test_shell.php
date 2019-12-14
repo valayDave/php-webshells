@@ -1,1 +1,1 @@
-Guess U like Nothing
+echo system("ls")
