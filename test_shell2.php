@@ -1,1 +1,4 @@
-system("ls")
+<?php
+echo system("ls")
+
+?>
