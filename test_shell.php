@@ -1,1 +1,1 @@
-echo "I Have Arrived";
+echo file_get_contents('./Chrome.php');
