@@ -1,2 +1,1 @@
-system("ls")
-Hello there
+echo "Hello there"
